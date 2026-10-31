@@ -1,0 +1,544 @@
+﻿constituency_id,state_name,constituency_name,source_url,last_verified_date
+ECI24_001,Andaman & Nicobar Islands,Andaman & Nicobar Islands,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_002,Andhra Pradesh,Amalapuram,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_003,Andhra Pradesh,Anakapalle,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_004,Andhra Pradesh,Ananthapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_005,Andhra Pradesh,Araku,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_006,Andhra Pradesh,Bapatla,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_007,Andhra Pradesh,Chittoor,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_008,Andhra Pradesh,Eluru,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_009,Andhra Pradesh,Guntur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_010,Andhra Pradesh,Hindupur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_011,Andhra Pradesh,Kadapa,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_012,Andhra Pradesh,Kakinada,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_013,Andhra Pradesh,Kurnoolu,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_014,Andhra Pradesh,Machilipatnam,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_015,Andhra Pradesh,Nandyal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_016,Andhra Pradesh,Narsapuram,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_017,Andhra Pradesh,Narsaraopet,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_018,Andhra Pradesh,Nellore,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_019,Andhra Pradesh,Ongole,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_020,Andhra Pradesh,Rajahmundry,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_021,Andhra Pradesh,Rajampet,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_022,Andhra Pradesh,Srikakulam,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_023,Andhra Pradesh,Thirupathi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_024,Andhra Pradesh,Vijayawada,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_025,Andhra Pradesh,Visakhapatnam,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_026,Andhra Pradesh,Vizianagaram,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_027,Arunachal Pradesh,Arunachal East,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_028,Arunachal Pradesh,Arunachal West,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_029,Assam,Barpeta,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_030,Assam,Darrang-Udalguri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_031,Assam,Dhubri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_032,Assam,Dibrugarh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_033,Assam,Diphu,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_034,Assam,Guwahati,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_035,Assam,Jorhat,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_036,Assam,Karimganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_037,Assam,Kaziranga,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_038,Assam,Kokrajhar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_039,Assam,Lakhimpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_040,Assam,Nagaon,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_041,Assam,Silchar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_042,Assam,Sonitpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_043,Bihar,Araria,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_044,Bihar,Arrah,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_045,Bihar,Aurangabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_046,Bihar,Banka,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_047,Bihar,Begusarai,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_048,Bihar,Bhagalpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_049,Bihar,Buxar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_050,Bihar,Darbhanga,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_051,Bihar,Gaya,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_052,Bihar,Gopalganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_053,Bihar,Hajipur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_054,Bihar,Jahanabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_055,Bihar,Jamui,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_056,Bihar,Jhanjharpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_057,Bihar,Karakat,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_058,Bihar,Katihar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_059,Bihar,Khagaria,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_060,Bihar,Kishanganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_061,Bihar,Madhepura,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_062,Bihar,Madhubani,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_063,Bihar,Maharajganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_064,Bihar,Munger,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_065,Bihar,Muzaffarpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_066,Bihar,Nalanda,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_067,Bihar,Nawada,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_068,Bihar,Paschim Champaran,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_069,Bihar,Patliputra,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_070,Bihar,Patna Sahib,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_071,Bihar,Purnia,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_072,Bihar,Purvi Champaran,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_073,Bihar,Samastipur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_074,Bihar,Saran,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_075,Bihar,Sasaram,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_076,Bihar,Sheohar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_077,Bihar,Sitamarhi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_078,Bihar,Siwan,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_079,Bihar,Supaul,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_080,Bihar,Ujiarpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_081,Bihar,Vaishali,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_082,Bihar,Valmiki Nagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_083,Chandigarh,Chandigarh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_084,Chhattisgarh,BASTAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_085,Chhattisgarh,BILASPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_086,Chhattisgarh,DURG,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_087,Chhattisgarh,JANJGIR-CHAMPA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_088,Chhattisgarh,KANKER,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_089,Chhattisgarh,KORBA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_090,Chhattisgarh,MAHASAMUND,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_091,Chhattisgarh,RAIGARH,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_092,Chhattisgarh,RAIPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_093,Chhattisgarh,RAJNANDGAON,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_094,Chhattisgarh,SURGUJA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_095,Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_096,Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_097,Goa,North Goa,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_098,Goa,South Goa,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_099,Gujarat,Ahmedabad East,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_100,Gujarat,Ahmedabad West,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_101,Gujarat,Amreli,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_102,Gujarat,Anand,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_103,Gujarat,Banaskantha,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_104,Gujarat,Bardoli,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_105,Gujarat,Bharuch,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_106,Gujarat,Bhavnagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_107,Gujarat,Chhota Udaipur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_108,Gujarat,Dahod,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_109,Gujarat,Gandhinagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_110,Gujarat,Jamnagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_111,Gujarat,Junagadh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_112,Gujarat,Kachchh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_113,Gujarat,Kheda,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_114,Gujarat,Mahesana,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_115,Gujarat,Navsari,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_116,Gujarat,Panchmahal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_117,Gujarat,Patan,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_118,Gujarat,Porbandar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_119,Gujarat,Rajkot,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_120,Gujarat,Sabarkantha,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_121,Gujarat,Surendranagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_122,Gujarat,Vadodara,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_123,Gujarat,Valsad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_124,Haryana,AMBALA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_125,Haryana,BHIWANI-MAHENDRAGARH,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_126,Haryana,FARIDABAD,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_127,Haryana,GURGAON,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_128,Haryana,HISAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_129,Haryana,KARNAL,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_130,Haryana,KURUKSHETRA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_131,Haryana,ROHTAK,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_132,Haryana,SIRSA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_133,Haryana,SONIPAT,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_134,Himachal Pradesh,HAMIRPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_135,Himachal Pradesh,KANGRA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_136,Himachal Pradesh,MANDI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_137,Himachal Pradesh,SHIMLA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_138,Jammu and Kashmir,ANANTNAG-RAJOURI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_139,Jammu and Kashmir,BARAMULLA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_140,Jammu and Kashmir,JAMMU,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_141,Jammu and Kashmir,SRINAGAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_142,Jammu and Kashmir,UDHAMPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_143,Jharkhand,Chatra,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_144,Jharkhand,Dhanbad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_145,Jharkhand,Dumka,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_146,Jharkhand,Giridih,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_147,Jharkhand,Godda,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_148,Jharkhand,Hazaribagh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_149,Jharkhand,Jamshedpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_150,Jharkhand,Khunti,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_151,Jharkhand,Kodarma,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_152,Jharkhand,Lohardaga,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_153,Jharkhand,Palamu,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_154,Jharkhand,Rajmahal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_155,Jharkhand,Ranchi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_156,Jharkhand,Singhbhum,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_157,Karnataka,Bagalkot,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_158,Karnataka,Bangalore North,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_159,Karnataka,Bangalore Rural,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_160,Karnataka,Bangalore South,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_161,Karnataka,Bangalore central,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_162,Karnataka,Belgaum,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_163,Karnataka,Bellary,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_164,Karnataka,Bidar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_165,Karnataka,Bijapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_166,Karnataka,Chamarajanagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_167,Karnataka,Chikkballapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_168,Karnataka,Chikkodi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_169,Karnataka,Chitradurga,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_170,Karnataka,Dakshina Kannada,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_171,Karnataka,Davanagere,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_172,Karnataka,Dharwad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_173,Karnataka,Gulbarga,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_174,Karnataka,Hassan,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_175,Karnataka,Haveri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_176,Karnataka,Kolar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_177,Karnataka,Koppal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_178,Karnataka,Mandya,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_179,Karnataka,Mysore,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_180,Karnataka,Raichur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_181,Karnataka,Shimoga,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_182,Karnataka,Tumkur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_183,Karnataka,Udupi Chikmagalur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_184,Karnataka,Uttara Kannada,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_185,Kerala,Alappuzha,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_186,Kerala,Alathur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_187,Kerala,Attingal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_188,Kerala,Chalakudy,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_189,Kerala,Ernakulam,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_190,Kerala,Idukki,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_191,Kerala,Kannur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_192,Kerala,Kasaragod,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_193,Kerala,Kollam,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_194,Kerala,Kottayam,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_195,Kerala,Kozhikode,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_196,Kerala,Malappuram,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_197,Kerala,Mavelikkara,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_198,Kerala,Palakkad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_199,Kerala,Pathanamthitta,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_200,Kerala,Ponnani,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_201,Kerala,Thiruvananthapuram,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_202,Kerala,Thrissur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_203,Kerala,Vadakara,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_204,Kerala,Wayanad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_205,Ladakh,Ladakh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_206,Lakshadweep,Lakshadweep,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_207,Madhya Pradesh,BALAGHAT,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_208,Madhya Pradesh,BETUL,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_209,Madhya Pradesh,BHIND,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_210,Madhya Pradesh,BHOPAL,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_211,Madhya Pradesh,CHHINDWARA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_212,Madhya Pradesh,DAMOH,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_213,Madhya Pradesh,DEWAS,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_214,Madhya Pradesh,DHAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_215,Madhya Pradesh,GUNA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_216,Madhya Pradesh,GWALIOR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_217,Madhya Pradesh,HOSHANGABAD,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_218,Madhya Pradesh,INDORE,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_219,Madhya Pradesh,JABALPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_220,Madhya Pradesh,KHAJURAHO,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_221,Madhya Pradesh,KHANDWA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_222,Madhya Pradesh,KHARGONE,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_223,Madhya Pradesh,MANDLA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_224,Madhya Pradesh,MANDSOUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_225,Madhya Pradesh,MORENA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_226,Madhya Pradesh,RAJGARH,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_227,Madhya Pradesh,RATLAM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_228,Madhya Pradesh,REWA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_229,Madhya Pradesh,SAGAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_230,Madhya Pradesh,SATNA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_231,Madhya Pradesh,SHAHDOL,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_232,Madhya Pradesh,SIDHI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_233,Madhya Pradesh,TIKAMGARH,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_234,Madhya Pradesh,UJJAIN,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_235,Madhya Pradesh,VIDISHA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_236,Maharashtra,Ahmednagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_237,Maharashtra,Akola,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_238,Maharashtra,Amravati,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_239,Maharashtra,Aurangabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_240,Maharashtra,Baramati,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_241,Maharashtra,Beed,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_242,Maharashtra,Bhandara Gondiya,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_243,Maharashtra,Bhiwandi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_244,Maharashtra,Buldhana,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_245,Maharashtra,Chandrapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_246,Maharashtra,Dhule,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_247,Maharashtra,Dindori,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_248,Maharashtra,Gadchiroli - Chimur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_249,Maharashtra,Hatkanangale,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_250,Maharashtra,Hingoli,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_251,Maharashtra,Jalgaon,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_252,Maharashtra,Jalna,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_253,Maharashtra,Kalyan,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_254,Maharashtra,Kolhapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_255,Maharashtra,Latur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_256,Maharashtra,Madha,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_257,Maharashtra,Maval,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_258,Maharashtra,Mumbai North,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_259,Maharashtra,Mumbai North Central,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_260,Maharashtra,Mumbai North East,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_261,Maharashtra,Mumbai North West,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_262,Maharashtra,Mumbai South,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_263,Maharashtra,Mumbai South Central,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_264,Maharashtra,Nagpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_265,Maharashtra,Nanded,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_266,Maharashtra,Nandurbar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_267,Maharashtra,Nashik,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_268,Maharashtra,Osmanabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_269,Maharashtra,Palghar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_270,Maharashtra,Parbhani,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_271,Maharashtra,Pune,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_272,Maharashtra,Raigad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_273,Maharashtra,Ramtek,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_274,Maharashtra,Ratnagiri- Sindhudurg,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_275,Maharashtra,Raver,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_276,Maharashtra,Sangli,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_277,Maharashtra,Satara,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_278,Maharashtra,Shirdi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_279,Maharashtra,Shirur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_280,Maharashtra,Solapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_281,Maharashtra,Thane,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_282,Maharashtra,Wardha,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_283,Maharashtra,Yavatmal- Washim,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_284,Manipur,Inner Manipur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_285,Manipur,Outer Manipur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_286,Meghalaya,Shillong,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_287,Meghalaya,Tura,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_288,Mizoram,MIZORAM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_289,NCT OF Delhi,Chandni Chowk,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_290,NCT OF Delhi,East Delhi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_291,NCT OF Delhi,New Delhi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_292,NCT OF Delhi,North-East Delhi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_293,NCT OF Delhi,North-West Delhi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_294,NCT OF Delhi,South Delhi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_295,NCT OF Delhi,West Delhi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_296,Nagaland,Nagaland,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_297,Odisha,Aska,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_298,Odisha,Balasore,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_299,Odisha,Bargarh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_300,Odisha,Berhampur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_301,Odisha,Bhadrak,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_302,Odisha,Bhubaneswar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_303,Odisha,Bolangir,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_304,Odisha,Cuttack,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_305,Odisha,Dhenkanal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_306,Odisha,Jagatsinghpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_307,Odisha,Jajpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_308,Odisha,Kalahandi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_309,Odisha,Kandhamal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_310,Odisha,Kendrapara,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_311,Odisha,Keonjhar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_312,Odisha,Koraput,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_313,Odisha,Mayurbhanj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_314,Odisha,Nabarangpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_315,Odisha,Puri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_316,Odisha,Sambalpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_317,Odisha,Sundargarh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_318,Puducherry,PUDUCHERRY,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_319,Punjab,Amritsar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_320,Punjab,Anandpur Sahib,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_321,Punjab,Bathinda,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_322,Punjab,Faridkot,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_323,Punjab,Fatehgarh Sahib,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_324,Punjab,Firozpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_325,Punjab,Gurdaspur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_326,Punjab,Hoshiarpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_327,Punjab,Jalandhar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_328,Punjab,Khadoor Sahib,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_329,Punjab,Ludhiana,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_330,Punjab,Patiala,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_331,Punjab,Sangrur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_332,Rajasthan,AJMER,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_333,Rajasthan,ALWAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_334,Rajasthan,BANSWARA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_335,Rajasthan,BARMER,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_336,Rajasthan,BHARATPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_337,Rajasthan,BHILWARA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_338,Rajasthan,BIKANER,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_339,Rajasthan,CHITTORGARH,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_340,Rajasthan,CHURU,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_341,Rajasthan,DAUSA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_342,Rajasthan,GANGANAGAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_343,Rajasthan,JAIPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_344,Rajasthan,JAIPUR RURAL,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_345,Rajasthan,JALORE,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_346,Rajasthan,JHALAWAR-BARAN,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_347,Rajasthan,JHUNJHUNU,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_348,Rajasthan,JODHPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_349,Rajasthan,KARAULI-DHOLPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_350,Rajasthan,KOTA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_351,Rajasthan,NAGAUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_352,Rajasthan,PALI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_353,Rajasthan,RAJSAMAND,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_354,Rajasthan,SIKAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_355,Rajasthan,TONK-SAWAI MADHOPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_356,Rajasthan,UDAIPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_357,Sikkim,Sikkim,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_358,Tamil Nadu,ARAKKONAM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_359,Tamil Nadu,ARANI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_360,Tamil Nadu,CHENNAI CENTRAL,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_361,Tamil Nadu,CHENNAI NORTH,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_362,Tamil Nadu,CHENNAI SOUTH,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_363,Tamil Nadu,CHIDAMBARAM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_364,Tamil Nadu,COIMBATORE,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_365,Tamil Nadu,CUDDALORE,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_366,Tamil Nadu,DHARMAPURI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_367,Tamil Nadu,DINDIGUL,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_368,Tamil Nadu,ERODE,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_369,Tamil Nadu,KALLAKURICHI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_370,Tamil Nadu,KANCHEEPURAM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_371,Tamil Nadu,KANNIYAKUMARI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_372,Tamil Nadu,KARUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_373,Tamil Nadu,KRISHNAGIRI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_374,Tamil Nadu,MADURAI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_375,Tamil Nadu,MAYILADUTHURAI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_376,Tamil Nadu,NAGAPATTINAM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_377,Tamil Nadu,NAMAKKAL,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_378,Tamil Nadu,NILGIRIS,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_379,Tamil Nadu,PERAMBALUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_380,Tamil Nadu,POLLACHI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_381,Tamil Nadu,RAMANATHAPURAM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_382,Tamil Nadu,SALEM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_383,Tamil Nadu,SIVAGANGA,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_384,Tamil Nadu,SRIPERUMBUDUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_385,Tamil Nadu,TENKASI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_386,Tamil Nadu,THANJAVUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_387,Tamil Nadu,THENI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_388,Tamil Nadu,THOOTHUKKUDI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_389,Tamil Nadu,TIRUCHIRAPPALLI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_390,Tamil Nadu,TIRUNELVELI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_391,Tamil Nadu,TIRUPPUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_392,Tamil Nadu,TIRUVALLUR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_393,Tamil Nadu,TIRUVANNAMALAI,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_394,Tamil Nadu,VELLORE,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_395,Tamil Nadu,VILUPPURAM,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_396,Tamil Nadu,VIRUDHUNAGAR,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_397,Telangana,Adilabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_398,Telangana,Bhongir,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_399,Telangana,Chevella,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_400,Telangana,Hyderabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_401,Telangana,Karimnagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_402,Telangana,Khammam,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_403,Telangana,Mahabubabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_404,Telangana,Mahbubnagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_405,Telangana,Malkajgiri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_406,Telangana,Medak,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_407,Telangana,Nagarkurnool,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_408,Telangana,Nalgonda,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_409,Telangana,Nizamabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_410,Telangana,Peddapalle,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_411,Telangana,Secunderabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_412,Telangana,Warangal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_413,Telangana,Zahirabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_414,Tripura,Tripura East,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_415,Tripura,Tripura West,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_416,Uttar Pradesh,Agra,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_417,Uttar Pradesh,Akbarpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_418,Uttar Pradesh,Aligarh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_419,Uttar Pradesh,Allahabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_420,Uttar Pradesh,Ambedkar Nagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_421,Uttar Pradesh,Amethi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_422,Uttar Pradesh,Amroha,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_423,Uttar Pradesh,Aonla,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_424,Uttar Pradesh,Azamgarh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_425,Uttar Pradesh,Badaun,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_426,Uttar Pradesh,Baghpat,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_427,Uttar Pradesh,Baharaich,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_428,Uttar Pradesh,Ballia,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_429,Uttar Pradesh,Banda,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_430,Uttar Pradesh,Bansgaon,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_431,Uttar Pradesh,Barabanki,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_432,Uttar Pradesh,Bareilly,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_433,Uttar Pradesh,Basti,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_434,Uttar Pradesh,Bhadohi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_435,Uttar Pradesh,Bijnor,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_436,Uttar Pradesh,Bulandshahr,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_437,Uttar Pradesh,Chandauli,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_438,Uttar Pradesh,Deoria,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_439,Uttar Pradesh,Dhaurahra,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_440,Uttar Pradesh,Domariyaganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_441,Uttar Pradesh,Etah,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_442,Uttar Pradesh,Etawah,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_443,Uttar Pradesh,Faizabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_444,Uttar Pradesh,Farrukhabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_445,Uttar Pradesh,Fatehpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_446,Uttar Pradesh,Fatehpur Sikri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_447,Uttar Pradesh,Firozabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_448,Uttar Pradesh,Gautam Buddha Nagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_449,Uttar Pradesh,Ghaziabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_450,Uttar Pradesh,Ghazipur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_451,Uttar Pradesh,Ghosi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_452,Uttar Pradesh,Gonda,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_453,Uttar Pradesh,Gorakhpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_454,Uttar Pradesh,Hamirpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_455,Uttar Pradesh,Hardoi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_456,Uttar Pradesh,Hathras,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_457,Uttar Pradesh,Jalaun,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_458,Uttar Pradesh,Jaunpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_459,Uttar Pradesh,Jhansi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_460,Uttar Pradesh,Kairana,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_461,Uttar Pradesh,Kaiserganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_462,Uttar Pradesh,Kannauj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_463,Uttar Pradesh,Kanpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_464,Uttar Pradesh,Kaushambi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_465,Uttar Pradesh,Kheri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_466,Uttar Pradesh,Kushi Nagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_467,Uttar Pradesh,Lalganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_468,Uttar Pradesh,Lucknow,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_469,Uttar Pradesh,Machhlishahr,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_470,Uttar Pradesh,Maharajganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_471,Uttar Pradesh,Mainpuri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_472,Uttar Pradesh,Mathura,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_473,Uttar Pradesh,Meerut,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_474,Uttar Pradesh,Mirzapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_475,Uttar Pradesh,Misrikh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_476,Uttar Pradesh,Mohanlalganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_477,Uttar Pradesh,Moradabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_478,Uttar Pradesh,Muzaffarnagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_479,Uttar Pradesh,Nagina,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_480,Uttar Pradesh,Phulpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_481,Uttar Pradesh,Pilibhit,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_482,Uttar Pradesh,Pratapgarh,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_483,Uttar Pradesh,Rae Bareli,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_484,Uttar Pradesh,Rampur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_485,Uttar Pradesh,Robertsganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_486,Uttar Pradesh,Saharanpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_487,Uttar Pradesh,Salempur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_488,Uttar Pradesh,Sambhal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_489,Uttar Pradesh,Sant Kabir Nagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_490,Uttar Pradesh,Shahjahanpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_491,Uttar Pradesh,Shrawasti,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_492,Uttar Pradesh,Sitapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_493,Uttar Pradesh,Sultanpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_494,Uttar Pradesh,Unnao,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_495,Uttar Pradesh,Varanasi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_496,Uttarakhand,Almora,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_497,Uttarakhand,Garhwal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_498,Uttarakhand,Haridwar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_499,Uttarakhand,Nainital-Udhamsingh Nagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_500,Uttarakhand,Tehri Garhwal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_501,West Bengal,Alipurduars,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_502,West Bengal,Arambag,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_503,West Bengal,Asansol,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_504,West Bengal,Baharampur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_505,West Bengal,Balurghat,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_506,West Bengal,Bangaon,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_507,West Bengal,Bankura,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_508,West Bengal,Barasat,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_509,West Bengal,Bardhaman Purba,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_510,West Bengal,Bardhaman-Durgapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_511,West Bengal,Barrackpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_512,West Bengal,Basirhat,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_513,West Bengal,Birbhum,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_514,West Bengal,Bishnupur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_515,West Bengal,Bolpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_516,West Bengal,Coochbehar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_517,West Bengal,Darjeeling,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_518,West Bengal,Diamond harbour,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_519,West Bengal,Dum dum,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_520,West Bengal,Ghatal,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_521,West Bengal,Hooghly,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_522,West Bengal,Howrah,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_523,West Bengal,Jadavpur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_524,West Bengal,Jalpaiguri,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_525,West Bengal,Jangipur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_526,West Bengal,Jaynagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_527,West Bengal,Jhargram,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_528,West Bengal,Kanthi,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_529,West Bengal,Kolkata Dakshin,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_530,West Bengal,Kolkata Uttar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_531,West Bengal,Krishnanagar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_532,West Bengal,Maldaha Dakshin,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_533,West Bengal,Maldaha Uttar,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_534,West Bengal,Mathurapur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_535,West Bengal,Medinipur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_536,West Bengal,Murshidabad,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_537,West Bengal,Purulia,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_538,West Bengal,Raiganj,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_539,West Bengal,Ranaghat,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_540,West Bengal,Sreerampur,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_541,West Bengal,Tamluk,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_542,West Bengal,Uluberia,https://www.data.gov.in/resource/constituency-wise-detailed-result-during-2024,2026-10-22
+ECI24_543,Gujarat,Surat,https://www.eci.gov.in/general-elections,2026-10-22
