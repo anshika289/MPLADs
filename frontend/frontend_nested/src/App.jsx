@@ -604,7 +604,7 @@ function AnalyserPage({ featureStats }) {
                     fontFamily: "var(--font-mono)", fontSize: 14,
                     color: result.decision_score < 0 ? "#EF4444" : "#10B981"
                   }}>
-                    {result.decision_score.toFixed(4)}
+                    {Number(result.decision_score).toFixed(8)}
                   </strong>
                 </div>
                 {/* Stepped Progress Bar */}
@@ -711,8 +711,8 @@ function AnalyserPage({ featureStats }) {
                           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "2px 8px", marginTop: 4, color: "#1E293B" }}>
                             <span>Allocation: <strong>{formatCrore(rec.Funds_Allocated)}</strong></span>
                             <span>Spent: <strong>{formatCrore(rec.Actual_Expense)}</strong></span>
-                            <span>Utilisation: <strong>{pct(rec.Utilisation_Rate * 100)}</strong></span>
-                            <span>Completion: <strong>{pct(rec.Completion_Rate * 100)}</strong></span>
+                            <span>Utilisation: <strong>{pct(rec.Utilisation_Rate)}</strong></span>
+                            <span>Completion: <strong>{pct(rec.Completion_Rate)}</strong></span>
                           </div>
                         </div>
                       ))}
@@ -970,13 +970,13 @@ function AnalyticsPage() {
                         fontFamily: "var(--font-mono)", color: "#EF4444",
                         background: "#FEF2F2", padding: "2px 6px", borderRadius: 4, fontWeight: 700,
                       }}>
-                        {r.decision_score.toFixed(4)}
+                        {Number(r.decision_score).toFixed(8)}
                       </span>
                     </td>
                     <td>{formatCrore(r.Funds_Allocated)}</td>
                     <td>{formatCrore(r.Actual_Expense)}</td>
-                    <td>{pct(r.Utilisation_Rate * 100)}</td>
-                    <td>{pct(r.Completion_Rate * 100)}</td>
+                    <td>{pct(r.Utilisation_Rate)}</td>
+                    <td>{pct(r.Completion_Rate)}</td>
                   </tr>
                 ))}
               </tbody>

@@ -387,7 +387,7 @@ def top_anomalous(limit: int = Query(default=10, ge=1, le=50)):
         rec["constituency_id"]  = str(row.get("Constituency_ID", ""))
         rec["financial_year"]   = str(row.get("Financial_Year", ""))
         rec["expense_category"] = str(row.get("Expense_Category", ""))
-        rec["decision_score"]   = round(float(_all_scores[i]), 6)
+        rec["decision_score"] = float(_all_scores[i])
         rec["anomaly_label"]    = int(row["Anomaly_Label"])
         for feat in FEATURE_NAMES:
             rec[feat] = float(row[feat])
@@ -906,4 +906,16 @@ def synthetic_constituency_finances(constituency: str, state: str):
         },
         "yearly_funds": yearly_data,
         "sector_data":  sector_data,
+    }
+@app.get("/api/debug/decision-scores")
+def debug_decision_scores():
+    return {
+        "total_scores": int(len(_all_scores)),
+        "unique_scores": int(len(np.unique(np.round(_all_scores, 8)))),
+        "minimum": float(np.min(_all_scores)),
+        "maximum": float(np.max(_all_scores)),
+        "standard_deviation": float(np.std(_all_scores)),
+        "first_15": [
+            float(x) for x in np.sort(_all_scores)[:15]
+        ]
     }
